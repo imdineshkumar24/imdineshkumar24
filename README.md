@@ -8,7 +8,7 @@
 
 ## 💻 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/imdineshkumar24)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/imdineshkumar24?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/imdineshkumar24)
 
 ---
 

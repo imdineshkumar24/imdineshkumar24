@@ -16,17 +16,28 @@
 
 - 🤖 Deep Learning & Neural Networks
 - 📊 Data Analysis & Visualization
-- 🧪 Experimenting with LLMs and Transformers
-- 📈 Improving my ML problem-solving on LeetCode & Kaggle
+- 🧪 Solving problems on Leetcode
+- 📈 Improving my ML problem-solving on Kaggle
 
 ---
 
-## 🚀 Projects & Highlights
+## 🛠 Tech Stack
 
-- 🧬 **ML Pipeline for Cancer Detection** – Built an end-to-end ML pipeline with scikit-learn, pandas, and streamlit for interactive UI.
-- 🎯 **Recommendation System** – Collaborative filtering-based engine using Python and surprise.
-- 📉 **Stock Price Prediction** – Time-series forecasting using LSTM in TensorFlow.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
+## 📫 Let's Connect
 
+- 💼 [LinkedIn](https://linkedin.com/in/imdineshkumar24)
+- 💬 [LeetCode](https://leetcode.com/imdineshkumar24)
+
+---
+
+⭐️ From [imdineshkumar24](https://github.com/imdineshkumar24)
